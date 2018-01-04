@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 01, 2018 
+### Day 1: January 02, 2018 
 
 **Today's Progress**: forked repository, watched videos, twitted and followed other who do the 100daysofprogramming, favourites added, codewars and codechallenges, ellak subsribed.
 
@@ -8,17 +8,15 @@
 
 **Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 03, 2018 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: App inventor log in in account. created and sqw old test projects. started experimenting with the tools.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: although they seem known buttons and tools from programming, it s nice to see them in new environment, seeing the options and the parameters they have.
+**Link(s) to work**: [App inventor](http://ai2.appinventor.mit.edu)
 
 
-### Day 1: June 27, Monday
+### Day 3: January 04, 2018 
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
