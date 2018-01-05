@@ -18,9 +18,17 @@
 
 ### Day 3: January 04, 2018 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: App inventor cont. xkecking rest in Designer. Moved in Blocks to see the instructions and experimenting with them.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** blocks amazed me bettter. Because in designer view some were unknown and sexret like many sensors or Lego .
+
+### Day 4:  January 5, 2018
+
+**Today's Progress**: App inventor cont. xkecking rest in Designer. Moved in Blocks to see the instructions and experimenting with them.
+
+**Thoughts** blocks amazed me bettter. Because in designer view some were unknown and sexret like many sensors or Lego .
+
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
