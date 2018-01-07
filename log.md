@@ -22,13 +22,13 @@
 
 **Thoughts** blocks amazed me bettter. Because in designer view some were unknown and sexret like many sensors or Lego .
 
-### Day 4:  January 5, 2018
+### Day 4:  January 7, 2018
 
-**Today's Progress**: App inventor cont. xkecking rest in Designer. Moved in Blocks to see the instructions and experimenting with them.
+**Today's Progress**: Blocks continued with text and Lists. Lists took some time. 
 
-**Thoughts** blocks amazed me bettter. Because in designer view some were unknown and sexret like many sensors or Lego .
+**Thoughts** blocks amazed me bettter. Bt today lists needed more experimentation and i also checked to see youtube videos. also looked help and learned backpack use.
 
-
+### Day 5:  January , 2018
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
