@@ -28,7 +28,18 @@
 
 **Thoughts** blocks amazed me bettter. Bt today lists needed more experimentation and i also checked to see youtube videos. also looked help and learned backpack use.
 
-### Day 5:  January , 2018
+### Day 5:  January 8, 2018
+
+**Today's Progress** finished Blocks ( colors, variables, procedures) ,continued with some new blocks from images and buttons... 
+
+**Thoughts** blocks amaze me more... because realised there are mores like in images and in buttons...
+
+### Day 6:  January 9, 2018
+
+**Today's Progress** finished Blocks ( colors, variables, procedures) ,continued with some new blocks from images and buttons... 
+
+**Thoughts** blocks amaze me more... because realised there are mores like in images and in buttons..6
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
