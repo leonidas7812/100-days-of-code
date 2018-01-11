@@ -34,12 +34,15 @@
 
 **Thoughts** blocks amaze me more... because realised there are mores like in images and in buttons...
 
-### Day 6:  January 9, 2018
+### Day 6:  January 11, 2018
 
-**Today's Progress** finished Blocks ( colors, variables, procedures) ,continued with some new blocks from images and buttons... 
+**Today's Progress** not much coding, but saved project, made aia, exported .apk, downloaded purr project from repository, keystore, gallery and other features of the programming environment.
+**Thoughts** gallery is a nice new start for tomorrow... i ll get in love i guess. many projects and apps to check!
 
-**Thoughts** blocks amaze me more... because realised there are mores like in images and in buttons..6
+### Day 6:  January 11, 2018
 
+**Today's Progress** not much coding, but saved project, made aia, exported .apk, downloaded purr project from repository, keystore, gallery and other features of the programming environment.
+**Thoughts** gallery is a nice new start for tomorrow... i ll get in love i guess. many projects and apps to check!
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
