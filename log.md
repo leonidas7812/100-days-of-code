@@ -39,10 +39,17 @@
 **Today's Progress** not much coding, but saved project, made aia, exported .apk, downloaded purr project from repository, keystore, gallery and other features of the programming environment.
 **Thoughts** gallery is a nice new start for tomorrow... i ll get in love i guess. many projects and apps to check!
 
-### Day 6:  January 11, 2018
+### Day 7:  January 12, 2018
 
-**Today's Progress** not much coding, but saved project, made aia, exported .apk, downloaded purr project from repository, keystore, gallery and other features of the programming environment.
-**Thoughts** gallery is a nice new start for tomorrow... i ll get in love i guess. many projects and apps to check!
+**Today's Progress** today was checking the gallery. opened projects of others in app inventor, checked the boxes. more complex code but understood all. call of procedures, initialization, set and get vales, change of screens and en/disable buttons etc.
+Also learned expand/collapse code, Guide and library and google play console...
+**Thoughts** gallery is amazing with projects of others... so nice to check complex code... google console is bad (lol) bcs u have to pay 25 euros in order to sell your apk files....
+
+### Day 8:  January 12, 2018
+
+today was checking the gallery. opened projects of others in app inventor, checked the boxes. more complex code but understood all. call of procedures, initialization, set and get vales, change of screens and en/disable buttons etc.
+Also learned expand/collapse code, Guide and library and google play console...
+**Thoughts** gallery is amazing with projects of others... so nice to check complex code... google console is bad (lol) bcs u have to pay 25 euros in order to sell your apk files....
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
