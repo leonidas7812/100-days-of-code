@@ -45,11 +45,20 @@
 Also learned expand/collapse code, Guide and library and google play console...
 **Thoughts** gallery is amazing with projects of others... so nice to check complex code... google console is bad (lol) bcs u have to pay 25 euros in order to sell your apk files....
 
-### Day 8:  January 12, 2018
+### Day 8:  January 13, 2018
 
-today was checking the gallery. opened projects of others in app inventor, checked the boxes. more complex code but understood all. call of procedures, initialization, set and get vales, change of screens and en/disable buttons etc.
-Also learned expand/collapse code, Guide and library and google play console...
-**Thoughts** gallery is amazing with projects of others... so nice to check complex code... google console is bad (lol) bcs u have to pay 25 euros in order to sell your apk files....
+**Today's Progress** checked @Firebase console because of another tweet, then back to App Inventor, checked bit code. Programmed my first app, which with qrcode installed with ai companion in mobile phone and worked....
+**Thoughts** it s so nice to have created such codes and installed it to my mobile phone and finally work!!!
+
+### Day 9:  January 16, 2018
+
+**Today's Progress**  checked more complex code from other apps of Gellery like tictactoe game and PingPong (inveresting combo of blocks). also i did one mine in app inventor 2, checked all attributes of screen. put images and made them appear disappeared, and selected.
+**Thoughts** made more complex code with flags which is really nice. and easily opened with mobile, aicompanion... must study more complex examples
+### Day 10:  January 17, 2018
+
+**Today's Progress** checked @Firebase console because of another tweet, then back to App Inventor, checked bit code. Programmed my first app, which with qrcode installed with ai companion in mobile phone and worked....
+**Thoughts** it s so nice to have created such codes and installed it to my mobile phone and finally work!!!
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
