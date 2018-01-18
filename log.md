@@ -54,7 +54,13 @@ Also learned expand/collapse code, Guide and library and google play console...
 
 **Today's Progress**  checked more complex code from other apps of Gellery like tictactoe game and PingPong (inveresting combo of blocks). also i did one mine in app inventor 2, checked all attributes of screen. put images and made them appear disappeared, and selected.
 **Thoughts** made more complex code with flags which is really nice. and easily opened with mobile, aicompanion... must study more complex examples
+
 ### Day 10:  January 17, 2018
+
+**Today's Progress** App Inventor 2, continued with checking code from Gallery, spaceinvaders, also checked Guide and read about DB, tinyDB, activity starter, watched youtube videos on this and made a small program to ckech activity. Also checked properties on screens and buttons...
+**Thoughts** DBs and actions on activites are difficult, some dissapointed, but at least learned new things...
+
+### Day 11:  January 18, 2018
 
 **Today's Progress** checked @Firebase console because of another tweet, then back to App Inventor, checked bit code. Programmed my first app, which with qrcode installed with ai companion in mobile phone and worked....
 **Thoughts** it s so nice to have created such codes and installed it to my mobile phone and finally work!!!
