@@ -62,9 +62,13 @@ Also learned expand/collapse code, Guide and library and google play console...
 
 ### Day 11:  January 18, 2018
 
+**Today's Progress**  i checked teachers sources and help... then http://explore.appinventor.mit.edu/ai2/magic-8-ball … checked the magic ball and did this app. which worked. i did my first list and sensor worked with accelerometer in mobile. also color change in labels...
+**Thoughts** great feeling seeing accelerometer working and first list created
+
+### Day 12:  January 19, 2018
+
 **Today's Progress** checked @Firebase console because of another tweet, then back to App Inventor, checked bit code. Programmed my first app, which with qrcode installed with ai companion in mobile phone and worked....
 **Thoughts** it s so nice to have created such codes and installed it to my mobile phone and finally work!!!
-
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
