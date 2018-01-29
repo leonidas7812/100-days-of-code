@@ -75,11 +75,15 @@ Also learned expand/collapse code, Guide and library and google play console...
 **Today's Progress** ctd with app inventor 2. Checked rest of cards, http://appinventor.mit.edu/explore/sites/all/files/ConceptCards/ai2/AppInventorMakerCards.pdf … and did programs using google speech, camera , take pics, drawing on canvas... all worked! and nine for students also...
 **Thoughts** i m so happy i now make these programs so easily... even begin to thing by myself how to make them. all tested and worked!!!
 
-### Day 13:  January 26, 2018
+### Day 14:  January 28, 2018
+
+**Today's Progress** app inventor 2, coded two new small programs with sensors, tilt to move, fling. Read about extensions and aix files, checked sourse code in github of app inv. and downloaded an extension to a projectt (from computer) - had to download it first...
+**Thoughts** finished all cards and still improve in coding thjinking. checked and installed extensions! and repositoy. i really liked i learned new things... and started bit of Alice.
+
+### Day 15:  January 28, 2018
 
 **Today's Progress** checked @Firebase console because of another tweet, then back to App Inventor, checked bit code. Programmed my first app, which with qrcode installed with ai companion in mobile phone and worked....
 **Thoughts** it s so nice to have created such codes and installed it to my mobile phone and finally work!!!
-
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
